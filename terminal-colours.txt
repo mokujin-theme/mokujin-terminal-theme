@@ -1,3 +1,5 @@
+# https://gitlab.com/mokujin-theme/mokujin-terminal-theme
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                   Mokujin terminal palette                   ║
 ╠═══════╦═════════╦═════════╦═══════════════════════╦══════════╣

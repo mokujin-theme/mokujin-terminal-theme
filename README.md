@@ -52,4 +52,4 @@ If you use some other terminal and want to share your config for this theme, sen
 
 
 ## License
-This software is licensed under the GNU General Public License v3+
+This software is licensed under the GNU General Public License v3+.  See LICENSE for details.
