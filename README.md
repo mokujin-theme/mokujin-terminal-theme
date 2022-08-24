@@ -19,10 +19,10 @@ Also, I've found that kitty seems to render fonts a little more nicely so that's
 
 
 ## Screenshots
-![](screenshots/screenshot-1.png)
-![](screenshots/screenshot-2.png)
-![](screenshots/screenshot-3.png)
-![](screenshots/screenshot-4.png)
+<img src="screenshots/screenshot-1.png"  width="800"><br>
+<img src="screenshots/screenshot-2.png"  width="800"><br>
+<img src="screenshots/screenshot-3.png"  width="800"><br>
+<img src="screenshots/screenshot-4.png"  width="800"><br>
 
 
 ## Requirements
