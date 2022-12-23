@@ -1,6 +1,6 @@
 ################################################################################
 # Mokujin Terminal Theme for Alacritty
-# Version 1.0
+# Version 1.1
 # Copyright 2022 seek
 # https://gitlab.com/mokujin-theme/mokujin-terminal-theme
 #    
@@ -100,7 +100,7 @@ font:
     family: mononoki Nerd Font Mono
     style: BoldItalic
 
-  size: 13.0
+  size: 15.0
 
   offset:
     x: 0
@@ -169,7 +169,7 @@ colors:
       foreground: '#d13278'
       background: '#6dd596'
 
-    bar:
+    footer_bar:
       foreground: '#94bb46'
       background: '#3a3c35'
 
